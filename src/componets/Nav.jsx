@@ -1,4 +1,5 @@
 import icon from "../assets/icon.png"
+import hamburger from "../assets/hamburger.svg"
 import Button from "./Button"
 
 function Nav() {
@@ -20,6 +21,10 @@ function Nav() {
                     </div>
 
 
+                </div>
+
+                <div className="max-lg:block hidden">
+                    <img src={hamburger} height={28} width={29} alt="" />
                 </div>
         </nav>
     </header>
