@@ -1,9 +1,9 @@
-import React from 'react'
+import tesla from "../assets/tesla.png"
 
 function Tesla() {
   return (
-    <div>
-      
+    <div className='sm:px-10 sm:py-5 sm:flex-row flex flex-col' >
+       <img src= {tesla} className="" alt="" />
     </div>
   )
 }

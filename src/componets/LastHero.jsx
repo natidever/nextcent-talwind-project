@@ -2,7 +2,7 @@ import lasthero from "../assets/lasthero.svg"
 import Button from "./Button"
 function LastHero() {
   return (
-    <section className="flex sm:flex-row gap-20 flex-col sm:px-28 sm:py-10">
+    <section className="flex sm:flex-row gap-20 flex-col sm:px-28 px-10 sm:py-10">
         <img src={lasthero} className="w-[307px] h-[301px]" alt="" srcset="" />
         <div className="flex flex-col ">
             <h1 className="text-neutralgrey2 text-[28px] font-semibold font-montserrat `">How to design your site footer like <br/> we did</h1>
