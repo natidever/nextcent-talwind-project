@@ -13,6 +13,9 @@ export default {
         background:"#F5F7FA",
         neutralgrey:"#717171",
         neutralgrey2:"#414141",
+        neutralgrey2:"#414141",
+        neutralgrey2:"#414141",
+        neutralgrey2:"#414141",
       },
       fontFamily: {
         palanquin: ['Palanquin', 'sans-serif'],
