@@ -12,6 +12,7 @@ export default {
         primaryTextColor:"#4D4D4D",
         background:"#F5F7FA",
         neutralgrey:"#717171",
+        neutralgrey2:"#414141",
       },
       fontFamily: {
         palanquin: ['Palanquin', 'sans-serif'],
