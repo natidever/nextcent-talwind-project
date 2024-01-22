@@ -6,6 +6,12 @@ function Tesla() {
     <div className='sm:px-10 sm:py-5 sm:flex-row flex flex-col' >
 
 <Button></Button>
+<Button></Button>
+<Button></Button>
+<Button></Button>
+<Button></Button>
+<Button></Button>
+<Button></Button>
     
   
     </div>
