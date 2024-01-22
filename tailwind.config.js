@@ -10,7 +10,8 @@ export default {
         primary:"#388E3B",
         secondar:"#263238",
         primaryTextColor:"#4D4D4D",
-        background:"F5F7FA",
+        background:"#F5F7FA",
+        neutralgrey:"#717171",
       },
       fontFamily: {
         palanquin: ['Palanquin', 'sans-serif'],
