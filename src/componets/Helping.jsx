@@ -5,7 +5,7 @@ import helping3 from "../assets/helping3.svg"
 import helping4 from "../assets/helping4.svg"
 const Helping = () => (
      
-    <section className='px-28 py-12 bg-background'>
+    <section className='sm:px-28 sm:py-12 px-5 bg-background'>
 
         <div className='flex flex-col sm:flex-row justify-between sm:mr-32'>
 
