@@ -14,21 +14,7 @@ function Tesla() {
        <img src= {tesla} className="" alt="" />
        <img src= {tesla} className="" alt="" />
        <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
-       <img src= {tesla} className="" alt="" />
+  
     </div>
   )
 }
