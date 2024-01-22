@@ -3,6 +3,7 @@ import Hero from "./componets/Hero"
 import Client from "./componets/Client."
 import Community from "./componets/community"
 import MiddleHero from "./componets/MiddleHero"
+import Helping from "./componets/Helping"
 export default function App() {
   return (
   <main>
@@ -26,6 +27,11 @@ export default function App() {
 
     <section>
       <MiddleHero/>
+    </section>
+
+
+    <section>
+      <Helping/>
     </section>
   </main>
   )
