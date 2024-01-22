@@ -4,6 +4,8 @@ import Client from "./componets/Client."
 import Community from "./componets/community"
 import MiddleHero from "./componets/MiddleHero"
 import Helping from "./componets/Helping"
+import LastHero from "./componets/LastHero"
+import Tesla from "./componets/tesla"
 export default function App() {
   return (
   <main>
@@ -33,6 +35,12 @@ export default function App() {
     <section>
       <Helping/>
     </section>
+
+    <section>
+    <LastHero/>
+    </section>
+
+    <Tesla/>
   </main>
   )
 }
