@@ -12,7 +12,8 @@ export default {
         primaryTextColor:"#4D4D4D",
         background:"#F5F7FA",
         neutralgrey:"#717171",
-        lightgrey:"#89939E"
+        lightgrey:"#89939E",
+        lastTextColor:"#263238"
   
       },
       fontFamily: {

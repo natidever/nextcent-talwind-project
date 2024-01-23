@@ -7,6 +7,7 @@ import Helping from "./componets/Helping"
 import LastHero from "./componets/LastHero"
 import Tesla from "./componets/tesla"
 import Caring from "./componets/caring"
+import Ending from "./componets/Ending"
 export default function App() {
   return (
   <main>
@@ -43,6 +44,8 @@ export default function App() {
 
     <Tesla/>
     <Caring/>
+    <Ending/>
+
   </main>
   )
 }
