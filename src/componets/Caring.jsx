@@ -6,18 +6,18 @@ function Caring () {
   return (
    <section className="sm:px-24 sm:py-10 px-5 py-4 flex flex-col">
         <h1 className='text-neutralgrey flex justify-center font-bold text-[20px] font-Inter sm:mb-3 ' >Caring is the new marketing</h1>
-        <p   className='text-neutralgrey flex justify-center max-w-[450px] sm:ml-64 font-bold text-[10px] font-Inter  text-center  sm:mb-3'   >The Nextcent blog is the best place to read about the latest membership insights, trends and more. See who's joining the community, read about how our community are increasing their membership income and lot's more.​</p>
+        <p   className='text-neutralgrey flex justify-center max-w-[450px] sm:ml-64 font-bold text-[12px] font-Inter  text-center  sm:mb-3'   >The Nextcent blog is the best place to read about the latest membership insights, trends and more. See who's joining the community, read about how our community are increasing their membership income and lot's more.​</p>
 
 
 
 
 
 
- <div className='flex sm:flex-row gap-10 sm:ml-10'>
+ <div className='flex sm:flex-row justify-center gap-10 flex-wrap'>
 
             <div className='relative '>
                 
-                <img src={blog1} alt="image" className="sm:w-[227px] sm:h-[200px]" />
+                <img src={blog1} alt="image" className="sm:w-[227px] sm:h-[200px] w-[227px] h-[200px]" />
 
                 <div className="flex flex-col relative bottom-[70px] left-[35px] bg-background shadow-xl px-2 sm:w-[160px] rounded-[12px] py-4 ">
                   
@@ -32,7 +32,7 @@ function Caring () {
 
             <div className='relative '>
        
-                <img src={blog3} alt="image" className="sm:w-[227px] sm:h-[200px]" />
+                <img src={blog3} alt="image" className="sm:w-[227px] sm:h-[200px] rounded-md" />
 
 
                 <div className="flex flex-col relative bottom-[70px] left-[35px] bg-background shadow-xl px-2 sm:w-[160px] rounded-[12px] py-4 ">
@@ -49,7 +49,7 @@ function Caring () {
 
 
 
-            <div className='relative '>
+            <div className='relative'>
                 
                 <img src={blog2} alt="image" className="sm:w-[227px] sm:h-[200px]" />
 
