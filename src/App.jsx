@@ -8,9 +8,10 @@ import LastHero from "./componets/LastHero"
 import Tesla from "./componets/tesla"
 import Caring from "./componets/caring"
 import Ending from "./componets/Ending"
+import Footer from "./componets/footer"
 export default function App() {
   return (
-  <main>
+  <main className="bg-gray-700">
     <section>
       <Nav/>
     </section>
@@ -45,6 +46,7 @@ export default function App() {
     <Tesla/>
     <Caring/>
     <Ending/>
+    <Footer/>
 
   </main>
   )

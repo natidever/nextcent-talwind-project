@@ -13,7 +13,8 @@ export default {
         background:"#F5F7FA",
         neutralgrey:"#717171",
         lightgrey:"#89939E",
-        lastTextColor:"#263238"
+        lastTextColor:"#263238",
+        neutralblack:"#263238",
   
       },
       screens:{
