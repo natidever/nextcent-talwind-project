@@ -16,6 +16,9 @@ export default {
         lastTextColor:"#263238"
   
       },
+      screens:{
+        tablet:"836px"
+      },
       fontFamily: {
         palanquin: ['Palanquin', 'sans-serif'],
         montserrat: ['Montserrat', 'sans-serif'],
