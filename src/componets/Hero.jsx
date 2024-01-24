@@ -3,7 +3,7 @@ import heroimage from "../assets/heroimage2.svg"
 import Button from "./Button"
 function Hero() {
   return (
-    <div className="bg-background w-full p-20 flex flex-col items-center md:flex-row md:px-[120px] md:py-[150px] md:justify-between" >
+    <div className="bg-background w-full p-20 flex flex-col items-center md:flex-row md:px-[100px] md:py-[110px] md:justify-between" >
       <div className="flex flex-col">
          <p className="text-[20px] md:text-[44px] font-semibold font-montserrat mb-2">Lessons and insights <br/>
           <span  className="text-primary ">from 8 years</span>

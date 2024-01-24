@@ -11,7 +11,7 @@ import Ending from "./componets/Ending"
 import Footer from "./componets/footer"
 export default function App() {
   return (
-  <main className="bg-gray-700">
+  <main className="">
     <section>
       <Nav/>
     </section>

@@ -16,8 +16,8 @@ function Nav() {
                         <li>Pricing</li>
                     </ul>
 
-                    <div>
-                     <Button/>
+                    <div className="ml-[70px] mb-5">
+                     <Button  width="w-[115px] " text="Register"/>
                     </div>
 
 
